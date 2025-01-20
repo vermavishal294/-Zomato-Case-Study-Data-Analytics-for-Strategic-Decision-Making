@@ -1,4 +1,4 @@
-Zomato Data Analytics Project
+Zomatoverse Project
 Overview
 This project analyzes Zomato's dataset to extract meaningful insights, identify trends, and present actionable recommendations. The primary goal is to explore customer preferences, restaurant performance, and regional trends to assist stakeholders in making data-driven decisions.
 
